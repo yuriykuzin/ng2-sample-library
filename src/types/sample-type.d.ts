@@ -1,3 +1,3 @@
-type SampleType = {
+export type SampleType = {
   test: string
 };

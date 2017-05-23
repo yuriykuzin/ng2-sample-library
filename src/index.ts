@@ -5,6 +5,8 @@ import { SampleDirective } from './sample.directive';
 import { SamplePipe } from './sample.pipe';
 import { SampleService } from './sample.service';
 
+import './types/sample-type';
+
 export * from './sample.component';
 export * from './sample.directive';
 export * from './sample.pipe';
